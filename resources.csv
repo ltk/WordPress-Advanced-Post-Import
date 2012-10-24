@@ -1,0 +1,5 @@
+post_title,post_content,wpcf_resource_url,_attachment,_tag,_tag,_tag
+1,content 1,http://blah.com/blah1.jpg,example1.jpg,transportation,trees,blah
+2,content 2,http://blah.com/blah2.jpg,example2.jpg,transportation,jake,jake
+3,content 3,http://blah.com/blah3.jpg,example3.jpg,transportation,,
+4,content 4,http://blah.com/blah4.jpg,example4.jpg,transportation,,
